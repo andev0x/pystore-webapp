@@ -14,9 +14,12 @@ python3 server.py
 #### Running on http://127.0.0.1:5000
 -------------
 ## 1. Tire Software
-<img src="https://raw.githubusercontent.com/anvng/pystore-webapp/master/documents/Screenshot%202024-02-28%20at%2009.42.43.png" alt="3 Tire software" style="height: 800px; width:800px;"/>
+<img src="https://raw.githubusercontent.com/anvng/pystore-webapp/master/documents/Screenshot%202024-02-28%20at%2009.42.43.png" alt="3 Tire software" 
+  style="height: 400px; width: 400px;"/>
 <img src="https://raw.githubusercontent.com/anvng/pystore-webapp/master/documents/Screenshot%202024-02-28%20at%2010.41.12.png" 
-style="height: 800px; width:800px;"/>
+  style="height: 400px; width: 400px;"/>
+<img src="https://raw.githubusercontent.com/anvng/pystore-webapp/master/documents/Screenshot%202024-03-02%20at%2016.44.06.png"
+  style="height: 400px; width: 800px;"/>
 
 -------------
 
