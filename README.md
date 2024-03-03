@@ -27,3 +27,7 @@ python3 server.py
 - [Icon](https://zavoloklom.github.io/material-design-iconic-font/icons.html)
 - [MySQL Connector Python](https://dev.mysql.com/doc/connector-python/en/)
 - [MySQL Community](https://dev.mysql.com/downloads/installer/)
+
+--------
+
+### Reference article
