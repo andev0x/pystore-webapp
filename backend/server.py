@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from sql_connection import get_sql_connection
 import mysql.connector
 import json
@@ -8,6 +9,7 @@ import orders_dao
 import uom_dao
 
 app = Flask(__name__)
+CORS(app)
 
 connection = get_sql_connection()
 
